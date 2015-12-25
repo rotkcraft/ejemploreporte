@@ -1,0 +1,26 @@
+<component name="libraryTable">
+  <library name="commons-beanutils-1.9.0">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/lib/commons-beanutils-1.9.0.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/commons-collections-3.2.1.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/commons-digester-2.1.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/commons-logging-1.1.1.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/groovy-all-2.0.1.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/hsqldb.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/itext-pdfa-5.5.0.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/itextpdf-5.5.0.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/jasperreports-6.1.0.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/jcalendar-1.4.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/jcommon-1.0.15.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/jfreechart-1.0.12.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/png-encoder-1.5.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/poi-3.10.1.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/poi-ooxml-3.10.1.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/servlet-api-2.4.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/jasperreports-fonts-6.1.0.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+    <jarDirectory url="jar://$PROJECT_DIR$/lib/jasperreports-fonts-6.1.0.jar!/" recursive="false" />
+  </library>
+</component>
